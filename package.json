@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/LdFerreira/testing-cypress/issues"
   },
-  "homepage": "https://github.com/LdFerreira/testing-cypress#readme"
+  "homepage": "https://github.com/LdFerreira/testing-cypress#readme",
+  "devDependencies": {
+    "cypress": "^3.8.1"
+  }
 }
